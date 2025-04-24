@@ -3,7 +3,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "outDir": ["**/*"]
-    "sourceMap": true,
+    "sourceMap" true,
     "declaration": false,
     "downlevelIteration": true,
     "experimentalDecorators": true,
