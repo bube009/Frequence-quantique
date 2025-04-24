@@ -1,9 +1,9 @@
-
+{
   "compileOnSave": false,
   "compilerOptions": {
     "baseUrl": "./",
-    "outDir": ["**/*"]
-    "sourceMap" true,
+    "outDir": "./dist/out-tsc",
+    "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
     "experimentalDecorators": true,
