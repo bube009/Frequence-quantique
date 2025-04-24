@@ -1,0 +1,6 @@
+{
+  "appId": "com.healthy.frequency",
+  "appName": "Healthy Frequency",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
