@@ -1,8 +1,8 @@
-{
+ '*/'
   "compileOnSave": false,
   "compilerOptions": {
     "baseUrl": "./",
-    "outDir": '*/'
+    "outDir": 
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
