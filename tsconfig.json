@@ -15,5 +15,5 @@
     "lib": ["es2020", "dom"]
   },
   "include": ["**/*.ts"]
-  "exclude". ["node_module','dist"]
+  "exclude" ["node_module','dist"]
 }
