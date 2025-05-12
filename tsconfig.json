@@ -11,6 +11,6 @@
     "typeRoots": ["node_modules/@types"],
     "lib": ["es2018", "dom"]
   },
-  'include' paths were '["src/**/*.ts"]'
-  'exclude' paths were '["node_modules","dist"]'.
+  'include':'["src/**/*.ts"]'
+  'exclude':'["node_modules","dist"]'.
 }
