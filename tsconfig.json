@@ -12,5 +12,5 @@
     "lib": ["es2018", "dom"]
   },
   "include":'["src/**/*.ts"]',
-  "exclude":'[" node_modules","dust"]'.
+  "exclude":'["node_modules","dust"]'.
 
