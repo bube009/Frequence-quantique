@@ -1,5 +1,5 @@
 {
-  "compilerOptions":}
+  "compilerOptions":  }
     "outDir": "./dist/out-tsc",
     "sourceMap": true,
     "declaration": false,
