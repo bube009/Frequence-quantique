@@ -1,5 +1,4 @@
-{
-  "compilerOptions": {
+{ ". compilerOptions": {
     "outDir": "./dist/out-tsc",
     "sourceMap": true,
     "declaration": false,
@@ -13,9 +12,7 @@
     ],
     "lib": [
       "es2018",
-      "dom"
-    ]
-  },
-  "include":["src/**/*.ts"],
-  "exclude":["node_modules","dist"]
-   }
+      "dom" 
+,"include":["src/**/*.ts"],
+"exclude":["node_modules","dist"].      
+       
