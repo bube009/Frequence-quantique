@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "build": "npx ng build"
+  },
+  "devDependencies": {
+    "@angular/cli": "^17.0.0"
   }
 }
