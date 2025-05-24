@@ -1,7 +1,0 @@
-{
-  "name": "frequence-quantique",
-  "version": 1,
-  "scripts": {
-    "build": "npx ng build"
-  }
-}
